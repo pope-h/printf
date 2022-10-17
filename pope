@@ -2,4 +2,3 @@
 
 git add .
 git commit -m 'printf Team Project'
-git push
